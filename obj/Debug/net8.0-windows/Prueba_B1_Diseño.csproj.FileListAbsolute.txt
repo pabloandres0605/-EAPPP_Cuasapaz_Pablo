@@ -1,0 +1,17 @@
+C:\Users\FIEECEC\Documents\Calculadora\Prueba_B1_Diseño\bin\Debug\net8.0-windows\Prueba_B1_Diseño.exe
+C:\Users\FIEECEC\Documents\Calculadora\Prueba_B1_Diseño\bin\Debug\net8.0-windows\Prueba_B1_Diseño.deps.json
+C:\Users\FIEECEC\Documents\Calculadora\Prueba_B1_Diseño\bin\Debug\net8.0-windows\Prueba_B1_Diseño.runtimeconfig.json
+C:\Users\FIEECEC\Documents\Calculadora\Prueba_B1_Diseño\bin\Debug\net8.0-windows\Prueba_B1_Diseño.dll
+C:\Users\FIEECEC\Documents\Calculadora\Prueba_B1_Diseño\bin\Debug\net8.0-windows\Prueba_B1_Diseño.pdb
+C:\Users\FIEECEC\Documents\Calculadora\Prueba_B1_Diseño\obj\Debug\net8.0-windows\Prueba_B1_Diseño.Form1.resources
+C:\Users\FIEECEC\Documents\Calculadora\Prueba_B1_Diseño\obj\Debug\net8.0-windows\Prueba_B1_Diseño.csproj.GenerateResource.cache
+C:\Users\FIEECEC\Documents\Calculadora\Prueba_B1_Diseño\obj\Debug\net8.0-windows\Prueba_B1_Diseño.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIEECEC\Documents\Calculadora\Prueba_B1_Diseño\obj\Debug\net8.0-windows\Prueba_B1_Diseño.AssemblyInfoInputs.cache
+C:\Users\FIEECEC\Documents\Calculadora\Prueba_B1_Diseño\obj\Debug\net8.0-windows\Prueba_B1_Diseño.AssemblyInfo.cs
+C:\Users\FIEECEC\Documents\Calculadora\Prueba_B1_Diseño\obj\Debug\net8.0-windows\Prueba_B1_Diseño.csproj.CoreCompileInputs.cache
+C:\Users\FIEECEC\Documents\Calculadora\Prueba_B1_Diseño\obj\Debug\net8.0-windows\Prueba_B1_Diseño.sourcelink.json
+C:\Users\FIEECEC\Documents\Calculadora\Prueba_B1_Diseño\obj\Debug\net8.0-windows\Prueba_B1_Diseño.dll
+C:\Users\FIEECEC\Documents\Calculadora\Prueba_B1_Diseño\obj\Debug\net8.0-windows\refint\Prueba_B1_Diseño.dll
+C:\Users\FIEECEC\Documents\Calculadora\Prueba_B1_Diseño\obj\Debug\net8.0-windows\Prueba_B1_Diseño.pdb
+C:\Users\FIEECEC\Documents\Calculadora\Prueba_B1_Diseño\obj\Debug\net8.0-windows\Prueba_B1_Diseño.genruntimeconfig.cache
+C:\Users\FIEECEC\Documents\Calculadora\Prueba_B1_Diseño\obj\Debug\net8.0-windows\ref\Prueba_B1_Diseño.dll
